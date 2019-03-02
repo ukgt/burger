@@ -1,0 +1,38 @@
+body {
+     background-image: url("/assets/img/singleburger.jpg");
+    
+}
+
+h1{
+     color: rgb(19, 17, 19);
+}
+ul {
+     padding: 5px;
+     margin: 5px;
+     background: #6ea38d;
+     width: 20%;
+}
+
+.label {
+     font-weight: bold;
+     
+}
+p{
+     font-weight: bold;
+     color: white;
+     
+}
+
+.create-form {
+     padding: 5px;
+     margin: 5px;
+     background: #6ba88f;
+     width: 20%;
+      font-weight: bold;
+      color: white;
+}
+
+.form-group {
+     margin-bottom: 5px;
+}
+
